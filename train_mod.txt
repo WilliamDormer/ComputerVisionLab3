@@ -1,0 +1,1 @@
+ python -m src.train.upgrade_train -lr 0.00001 -b 32 -e 20 -n "some_other_name"

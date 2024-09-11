@@ -1,0 +1,3 @@
+python -m src.test.vanilla_test
+
+remember that you have to close the popup window for the error rates to calculate
